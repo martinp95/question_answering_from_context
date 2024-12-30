@@ -1,0 +1,9 @@
+name: question_answering_from_context
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - torch==2.5
+    - transformers==4.47
