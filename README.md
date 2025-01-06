@@ -2,6 +2,14 @@
 
 This project is a batch application designed to answer questions based on a given context using pre-trained models and tokenizers.
 
+## Table of Contents
+- [Project Structure](#project-structure)
+- [Setup Instructions](#setup-instructions)
+- [Usage](#usage)
+- [Example](#example)
+- [Example Question and Answer](#example-question-and-answer)
+- [Running Tests](#running-tests)
+
 ## Project Structure
 
 ```
